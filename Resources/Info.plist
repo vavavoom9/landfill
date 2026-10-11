@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.landfill.Landfill</string>
+    <key>CFBundleName</key>
+    <string>Landfill</string>
+    <key>CFBundleExecutable</key>
+    <string>Landfill</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleDisplayName</key>
+    <string>Landfill</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.utilities</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright 2026 melk. GPL-3.0.</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSDesktopFolderUsageDescription</key>
+    <string>Landfill moves the files you drop on it out of your Desktop.</string>
+    <key>NSDocumentsFolderUsageDescription</key>
+    <string>Landfill moves the files you drop on it out of your Documents folder.</string>
+    <key>NSDownloadsFolderUsageDescription</key>
+    <string>Landfill moves the files you drop on it out of your Downloads folder.</string>
+</dict>
+</plist>
