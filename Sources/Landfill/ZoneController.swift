@@ -20,6 +20,9 @@ final class ZonePanel: NSPanel {
         hidesOnDeactivate = false
         becomesKeyOnlyIfNeeded = false
         isReleasedWhenClosed = false
+        // Without this, clicks and drops fall through wherever the window is transparent,
+        // which is all of it while the zone is hidden.
+        ignoresMouseEvents = false
     }
 
     override var canBecomeKey: Bool { true }
