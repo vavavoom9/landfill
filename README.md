@@ -1,4 +1,4 @@
-<h1><img src="docs/icon.png" width="56" align="middle" alt=""> Landfill</h1>
+<h1><img src="docs/icon.png" width="64" align="middle" alt=""> Landfill</h1>
 
 A spot on the Mac desktop for files you need right now and will forget to delete.
 
